@@ -6,9 +6,9 @@
 
 ## GitHub repositories
 
-{% embed url="https://github.com/Mauler125/detours\_r5" %}
+{% embed url="https://github.com/Mauler125/r5sdk" %}
 
-{% embed url="https://github.com/Mauler125/scripts\_r5" %}
+{% embed url="https://github.com/Mauler125/scripts_r5" %}
 
 ## Trello Page
 

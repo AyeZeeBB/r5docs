@@ -16,9 +16,9 @@ No, in-game cosmetics are disabled and will stay disabled. If you want to have I
 **We urge you to not attempt enabling cosmetics as this can put the whole project at risk! The development would cease and files wouldn't be accessible anymore.**
 {% endhint %}
 
-## Can I use my Season 10 Apex files?
+## Can I use my Season X Apex files?
 
-**Under absolutely no circumstances should you attempt to run th**i**s** **with Season 10 Apex files**.
+**Under absolutely no circumstances should you attempt to run th**i**s** **with Season X Apex files**.
 
 Doing this won't work as Easy Anti-Cheat will block it or may even **ban** you! You need to download the Season 3 Apex build files with the build string `R5pc_r5launch_N1094_CL456479_2019_10_30_05_20_PM`.
 

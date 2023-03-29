@@ -8,5 +8,5 @@ Use the sidebar to navigate to your desired subject of interest.
 
 ## How to contribute
 
-Submit a Pull Request to [https://github.com/salcodes1/r5reloaded-docs](https://github.com/salcodes1/r5reloaded-docs) and we will analyze it. Do note any feature you document must be part of the official repos.
+Submit a Pull Request to [https://github.com/AyeZeeBB/r5docs](https://github.com/AyeZeeBB/r5docs) and we will analyze it. Do note any feature you document must be part of the official repos.
 
